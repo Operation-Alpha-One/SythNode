@@ -1,5 +1,5 @@
 \ 
-if 
+fi 
 {
 Hello and welcome to the new age and music production.`
 No more will you ever need physical hardware, messey wires, or expensive equitment that can get damaged, lost, or stolen.`
@@ -32,11 +32,10 @@ Channels are opened with the minimum allowed Sockets that broken up into a handf
 Macro Systems , and Your SSH and Internet Ports...  You can Increase The amount of Channels you have open to allow more Interfaces to Stream to you or you can redirect`
 data flows to your teams and they can mix and redirect them back to you as a single channel feed...`
 The possibilitys are endless, Open Source and completely Community driven for expandibilty and creative exploration and expression....`
-I hope you join me in this project and we will have an incrediable journey into the future of musical expressio that we as race so much desires ....` \
+I hope you join me in this project and we will have an incrediable journey into the future of musical expressio that we as race so much desires ....` 
 },
-fi
 \
-if
+
 {
 #One Love , One Soul , One Chance!`
 #Become the One and The One Will Become!`
