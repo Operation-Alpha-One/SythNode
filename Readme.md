@@ -1,7 +1,5 @@
 
-\
-\
-
+\ if {
 Hello and welcome to the new age and music production.`
 No more will you ever need physical hardware, messey wires, or expensive equitment that can get damaged, lost, or stolen.`
 Become a Super DJ , Mixer, or Rockstar with Super SyntNode!`
@@ -34,6 +32,8 @@ Macro Systems , and Your SSH and Internet Ports...  You can Increase The amount 
 data flows to your teams and they can mix and redirect them back to you as a single channel feed...`
 The possibilitys are endless, Open Source and completely Community driven for expandibilty and creative exploration and expression....`
 I hope you join me in this project and we will have an incrediable journey into the future of musical expressio that we as race so much desires ....` \
+}
+fi
 \
 if
 {
@@ -43,5 +43,5 @@ if
 #Narayana Chandra Rheiner --September, 11th, 2021`
 }
 fi
-\
-\
+exit
+
